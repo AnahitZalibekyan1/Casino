@@ -1,0 +1,7 @@
+C:\Users\zalib\source\repos\Casino2\Casino2\bin\Debug\Casino2.exe.config
+C:\Users\zalib\source\repos\Casino2\Casino2\bin\Debug\Casino2.exe
+C:\Users\zalib\source\repos\Casino2\Casino2\bin\Debug\Casino2.pdb
+C:\Users\zalib\source\repos\Casino2\Casino2\obj\Debug\Casino2.csproj.AssemblyReference.cache
+C:\Users\zalib\source\repos\Casino2\Casino2\obj\Debug\Casino2.csproj.CoreCompileInputs.cache
+C:\Users\zalib\source\repos\Casino2\Casino2\obj\Debug\Casino2.exe
+C:\Users\zalib\source\repos\Casino2\Casino2\obj\Debug\Casino2.pdb
